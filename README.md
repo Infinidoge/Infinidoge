@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Infinidoge</h1>
-<h3 align="center">Programmer, D&D DM/Player,</h3>
+<h3 align="center">Programmer, D&D DM/Player, Player of Games</h3>
 
 - 🌱 I’m currently learning **Chocolatey Packages**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **infinidoge@doge-inc.net**
+- 📫 Email **infinidoge@doge-inc.net**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">On other sites:</h3>
 <p align="left">
 <a href="https://twitter.com/infinidoge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7745142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
