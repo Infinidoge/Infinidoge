@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Infinidoge</h1>
 <h3 align="center">Programmer, D&D DM/Player, Player of Games</h3>
 
+Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www.pixiv.net/en/artworks/64038310), [FurAffinity](https://www.furaffinity.net/view/24255814), [DeviantArt](https://www.deviantart.com/blushpumpkin/art/Lillie-Braixen-694521833)
+
 - 🌱 I’m currently learning **Chocolatey Packages**
 
 - 💬 Ask me about **Python**
