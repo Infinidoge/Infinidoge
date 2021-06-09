@@ -3,7 +3,7 @@
 
 Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www.pixiv.net/en/artworks/64038310), [FurAffinity](https://www.furaffinity.net/view/24255814), [DeviantArt](https://www.deviantart.com/blushpumpkin/art/Lillie-Braixen-694521833)
 
-- 🌱 I’m currently learning **Arch Linux**
+- 🌱 I’m currently learning **Nix** and **NixOS**
 
 - 💬 Ask me about **Python**
 
