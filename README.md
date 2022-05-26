@@ -3,11 +3,11 @@
 
 Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www.pixiv.net/en/artworks/64038310), [FurAffinity](https://www.furaffinity.net/view/24255814), [DeviantArt](https://www.deviantart.com/blushpumpkin/art/Lillie-Braixen-694521833)
 
-- 🌱 I’m currently learning **Nix** and **NixOS**
+- 🌱 I’m currently learning **Nim** and **Nix**/**NixOS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **Nix**/**NixOS**
 
-- 📫 Email **infinidoge@doge-inc.net**
+- 📫 Email **infinidoge@inx.moe**
 
 <h3 align="left">On other sites:</h3>
 <p align="left">
@@ -19,7 +19,7 @@ Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinidoge&show_icons=true&theme=dracula&locale=en&layout=compact" alt="infinidoge" /></p>
 
