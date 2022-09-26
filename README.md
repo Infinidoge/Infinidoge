@@ -12,9 +12,9 @@ Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www
 <h3 align="left">On other sites:</h3>
 <p align="left">
 <a href="https://twitter.com/infinidoge" target="blank">Twitter</a>, 
-<a href="https://stackoverflow.com/users/7745142" target="blank">Stack Overflow</a>
-<a href="https://steamcommunity.com/id/Infinidoge" target="blank">Steam</a>
-<a href="https://www.reddit.com/user/Infinidoge" target="blank">Reddit</a>
+<a href="https://stackoverflow.com/users/7745142" target="blank">Stack Overflow</a>, 
+<a href="https://steamcommunity.com/id/Infinidoge" target="blank">Steam</a>, 
+<a href="https://www.reddit.com/user/Infinidoge" target="blank">Reddit</a>, 
 <a rel="me" href="https://meow.social/@Infinidoge" target="blank">Mastodon</a>
 </p>
 
