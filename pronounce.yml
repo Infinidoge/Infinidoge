@@ -1,11 +1,23 @@
+---
 name: Infinidoge
+icon: https://avatars.githubusercontent.com/u/22727114
 age: 18
-pronouns: Any/All
+pronouns: 
+  - Any/All
+  - She/Her
 contacts:
   - "Discord: Infinidoge#1337"
   - "Twitter: @Infinidoge"
   - "Cohost: @Infinidoge"
   - "Reddit: u/Infinidoge"
+  - "GitHub: Infinidoge"
 urls:
-  - "https://github.com/Infinidoge"
   - "https://inx.moe"
+colors:
+  background: "#0020a0"
+  foreground: "#00dddd"
+  name: "#00ffff"
+  info: "#00a0d0"
+  url:
+    normal: "#d09090"
+    hover: "#d0d0d0"
