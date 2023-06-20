@@ -6,3 +6,5 @@ Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www
 <p><img align="left" src="https://infinidoge-github-readme-stats.vercel.app/api/top-langs?username=infinidoge&show_icons=true&theme=dracula&locale=en&layout=compact" alt="infinidoge" /></p>
 
 <p>&nbsp;<img align="center" src="https://infinidoge-github-readme-stats.vercel.app/api?username=infinidoge&show_icons=true&theme=dracula&locale=en" alt="infinidoge" /></p>
+
+<a rel="me" href="https://meow.social/@Infinidoge" hidden=true></a>
