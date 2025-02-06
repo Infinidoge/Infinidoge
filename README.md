@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Infinidoge!</h1>
+<h1 align="center">Hello, I am <abbr title="(Secretly a fox)">Infinidoge!</abbr></h1>
 
 Original posts for profile picture artwork, by blushpumpkin: [Pixiv](https://www.pixiv.net/en/artworks/64038310), [FurAffinity](https://sfw.furaffinity.net/view/24255814), [DeviantArt](https://www.deviantart.com/blushpumpkin/art/Lillie-Braixen-694521833)
 
